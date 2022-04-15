@@ -1,0 +1,14 @@
+*autoheaders.txt*       A Vim plugin to automatically generate headers.
+
+                           Vim autoheaders
+
+Author:            Kyle L. Davis <AceofSpades5757.github@gmail.com>
+Plugin Homepage:   <https://github.com/AceofSpades5757/vim-autoheaders>
+
+===============================================================================
+CONTENTS                                                            *autoheaders*
+
+Introduction ................. |autoheaders-introduction|
+Installation ................. |autoheaders-installation|
+
+vim:tw=78:et:ft=help:norl:
