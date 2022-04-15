@@ -2,7 +2,8 @@
 
 # Description
 
-Filetype: `vim`
+* Filetype: `vim`
+* Audience: Plugin Authors
 
 Vim plugin to automatically update your `.vim` file headers.
 
