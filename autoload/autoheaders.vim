@@ -1,7 +1,7 @@
-" Title: Auto-Headers
+" Title:       Auto-Headers
 " Description: A plugin to automatically update your headers.
-" Last Change: 4 April 2022
-" Maintainer: Kyle L. Davis <AceofSpades5757.github@gmail.com>
+" Last Change: 2022 Apr 14
+" Maintainer:  Kyle L. Davis <AceofSpades5757.github@gmail.com>
 
 
 "let g:autoheaders_date_format = '%B %d, %Y'
